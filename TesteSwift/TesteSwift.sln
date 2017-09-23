@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "TesteSwift", "TesteSwift\TesteSwift.elements", "{C6C1B1C1-C784-4E5C-A65F-AEFB43BE6818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C1B1C1-C784-4E5C-A65F-AEFB43BE6818}.Debug|Default.ActiveCfg = Debug
+		{C6C1B1C1-C784-4E5C-A65F-AEFB43BE6818}.Debug|Default.Build.0 = Debug
+		{C6C1B1C1-C784-4E5C-A65F-AEFB43BE6818}.Release|Default.ActiveCfg = Release
+		{C6C1B1C1-C784-4E5C-A65F-AEFB43BE6818}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

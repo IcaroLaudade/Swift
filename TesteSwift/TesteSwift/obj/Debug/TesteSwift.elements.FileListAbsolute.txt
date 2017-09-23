@@ -1,0 +1,9 @@
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\bin\Debug\TesteSwift.exe
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\bin\Debug\TesteSwift.exe.mdb
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\bin\Debug\TesteSwift.pdb
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\bin\Debug\Echoes.dll
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\bin\Debug\Swift.dll
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\obj\Debug\TesteSwift.Properties.Resources.resources
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\obj\Debug\TesteSwift.elements.GenerateResource.Cache
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\obj\Debug\TesteSwift.exe
+C:\Users\Icaro\Desktop\TesteSwift\TesteSwift\obj\Debug\TesteSwift.pdb
