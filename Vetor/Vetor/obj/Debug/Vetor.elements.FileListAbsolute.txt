@@ -1,0 +1,9 @@
+C:\Users\Icaro\Desktop\Vetor\Vetor\obj\Debug\Vetor.Properties.Resources.resources
+C:\Users\Icaro\Desktop\Vetor\Vetor\obj\Debug\Vetor.elements.GenerateResource.Cache
+C:\Users\Icaro\Desktop\Vetor\Vetor\bin\Debug\Vetor.exe
+C:\Users\Icaro\Desktop\Vetor\Vetor\bin\Debug\Vetor.exe.mdb
+C:\Users\Icaro\Desktop\Vetor\Vetor\bin\Debug\Vetor.pdb
+C:\Users\Icaro\Desktop\Vetor\Vetor\bin\Debug\Echoes.dll
+C:\Users\Icaro\Desktop\Vetor\Vetor\bin\Debug\Swift.dll
+C:\Users\Icaro\Desktop\Vetor\Vetor\obj\Debug\Vetor.exe
+C:\Users\Icaro\Desktop\Vetor\Vetor\obj\Debug\Vetor.pdb
