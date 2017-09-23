@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "Banco", "Banco\Banco.elements", "{1F6529AB-CAFA-468D-8232-56E76708D9F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6529AB-CAFA-468D-8232-56E76708D9F8}.Debug|Default.ActiveCfg = Debug
+		{1F6529AB-CAFA-468D-8232-56E76708D9F8}.Debug|Default.Build.0 = Debug
+		{1F6529AB-CAFA-468D-8232-56E76708D9F8}.Release|Default.ActiveCfg = Release
+		{1F6529AB-CAFA-468D-8232-56E76708D9F8}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

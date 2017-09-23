@@ -1,0 +1,9 @@
+C:\Users\Icaro\Desktop\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Icaro\Desktop\Banco\Banco\obj\Debug\Banco.elements.GenerateResource.Cache
+C:\Users\Icaro\Desktop\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Icaro\Desktop\Banco\Banco\bin\Debug\Banco.exe.mdb
+C:\Users\Icaro\Desktop\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Icaro\Desktop\Banco\Banco\bin\Debug\Echoes.dll
+C:\Users\Icaro\Desktop\Banco\Banco\bin\Debug\Swift.dll
+C:\Users\Icaro\Desktop\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Icaro\Desktop\Banco\Banco\obj\Debug\Banco.pdb
